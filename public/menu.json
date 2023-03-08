@@ -1,66 +1,66 @@
 [
     {
       "id": 1,
-      "image": "../Assets/json/falafel.webp",
+      "image": "https://ibb.co/PrP994D",
       "nombre": "Veggie Falafel",
       "descripcion": "Exquisito sándwich de falafel, elaborado a base de garbanzo, y vegetales (al gusto), dentro de pan arabe, elaborado y honeado en nuestra casa.",
       "precio": "$1,500",
-      "logo":"../Assets/logoveggie.jpg"
+      "logo":"https://ibb.co/k2NWwvt"
     },
     {
       "id": 2,
-      "image": "../Assets/json/vsabij.webp",
+      "image": "https://ibb.co/dpPrWr4",
       "nombre": "Veggie Sabij",
       "descripcion": "Exquisito sándwich, elaborado a base de berenjenas, vegetales (al gusto), dentro de pan arabe, elaborado y honeado en nuestra casa.",
       "precio": "$1,500",
-      "logo":"../Assets/logoveggie.jpg"
+      "logo":"https://ibb.co/k2NWwvt"
     },
     {
       "id": 3,
-      "image": "../Assets/json/vhummus.webp",
+      "image": "https://ibb.co/KWpvL1q",
       "nombre": "Veggie Hummus",
       "descripcion": "Deliciosa crema de puré de garbanzos cocidos con zumo de limón, con pasta de tahina (semillas de sésamo molidas, con líquido y sal) y aceite de oliva.",
       "precio": "$1,500",
-      "logo":"../Assets/logoveggie.jpg"
+      "logo":"https://ibb.co/k2NWwvt"
     },
     {
       "id": 4,
-      "image": "../Assets/json/vensalada.webp",
+      "image": "https://ibb.co/NVj3DM3",
       "nombre": "Veggie Ensalada",
       "descripcion": "Deliciosa y fresca ensalada de la casa, con lechuga, tomates, zanahoria y mas. Viene acompañada con un exquisitos dressing de de nuestras salsas especiales.",
       "precio": "$1,200",
-      "logo":"../Assets/logoveggie.jpg"
+      "logo":"https://ibb.co/k2NWwvt"
     },
     {
       "id": 5,
-      "image": "../Assets/json/vbomba.webp",
+      "image": "https://ibb.co/bL69PJb",
       "nombre": "Falafel Bowl",
       "descripcion": "Exquisitas bolitas de falafel hechas con garbanzo (18 unidades)",
       "precio": "$1,300",
-      "logo":"../Assets/logoveggie.jpg"
+      "logo":"https://ibb.co/k2NWwvt"
     },
     {
       "id": 6,
-      "image": "../Assets/json/vpelotitas.webp",
+      "image": "https://ibb.co/X2Sx71b",
       "nombre": "Porción de Pelotitas de Falafel",
       "descripcion": "Exquisitas bolitas de falafel hechas con garbanzo (12 unidades)",
       "precio": "$800",
-      "logo":"../Assets/logoveggie.jpg"
+      "logo":"https://ibb.co/k2NWwvt"
     },
     {
         "id": 7,
-        "image": "../Assets/json/vpan.webp",
+        "image": "https://ibb.co/0ftZ46g",
         "nombre": "Pan Pita Artesanal",
         "descripcion": "Exquisito pan árabe, elaborado y horneado en nuestra casa",
         "precio": "300",
-        "logo":"../Assets/logoveggie.jpg"
+        "logo":"https://ibb.co/k2NWwvt"
       },
       {
         "id": 8,
-        "image": "../Assets/json/vjugos.webp",
+        "image": "https://ibb.co/VYZWSxg",
         "nombre": "Jugos Naturales",
         "descripcion": "Limonada y Menta, Manzana y Jengibre, Pomelo y Frutos Rojos",
         "precio": "$600",
-        "logo":"../Assets/logoveggie.jpg"
+        "logo":"https://ibb.co/k2NWwvt"
       }
   ]
